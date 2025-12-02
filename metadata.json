@@ -1,0 +1,5 @@
+{
+  "name": "AI Email Sequence Generator",
+  "description": "A tool to generate a 3-part email marketing sequence for any product or newsletter using AI. Simply provide the topic, goal, and key points to get customized email copy.",
+  "requestFramePermissions": []
+}
