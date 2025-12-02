@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Project Banner](https://img.shields.io/badge/Status-Live-success?style=for-the-badge&color=8B5CF6)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://doodax.com)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://doodax.com/tools/ai-email-sequence-generator/index.html)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 
 <p align="center">
